@@ -118,7 +118,7 @@ header ul li a:hover {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	width: 100%;
+	width: auto fit-content;
 }
 .banner:after {
 	content:'';
