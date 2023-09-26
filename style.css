@@ -111,17 +111,16 @@ header ul li a:hover {
 	color: #fff;
 }
 .banner {
-	height: 80vh;
+	height: 100%;
 	background-image: url(logo\(2\).jpg);
     background-position: center;
 	position: relative;
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	width: auto fit-content;
+	width: auto fit-content 100%;
 	margin-left: auto;
 	margin-right: auto;
-	height: 100%;
 }
 .banner:after {
 	content:'';
