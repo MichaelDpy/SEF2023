@@ -121,6 +121,7 @@ header ul li a:hover {
 	width: auto fit-content;
 	margin-left: auto;
 	margin-right: auto;
+	height: 100%;
 }
 .banner:after {
 	content:'';
